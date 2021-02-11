@@ -1,0 +1,11 @@
+body {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-family: "Questrial", sans-serif;
+  display: block;
+  text-align: center;
+}
+.Board {
+  background-color: bisque;
+  width: 400px;
+  height: 400px;
+}
